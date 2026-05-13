@@ -1,5 +1,5 @@
 import { useContext, useState } from "react";
-import { AuthContext } from "../auth/AuthContext";
+import { AuthContext } from "../Auth/AuthContext";
 import { Button } from "@/components/ui/button";
 import { useNavigate } from "react-router-dom";
 import { ArrowLeft } from "lucide-react";
