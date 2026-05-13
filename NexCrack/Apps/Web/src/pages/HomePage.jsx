@@ -5,7 +5,7 @@ import { Search, Download, Zap, Shield, Globe, Star } from 'lucide-react';
 import { Input } from '@/components/ui/input';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
-import { AuthContext } from "../auth/AuthContext";
+import { AuthContext } from "../Auth/AuthContext";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 const GENRES = [
   "Action", "RPG", "Aventure", "Horreur",
